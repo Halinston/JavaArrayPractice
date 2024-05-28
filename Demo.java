@@ -4,8 +4,8 @@ public class Demo {
         int nums [] [] = new int [12] [16];
 
 
-            int ArrayLenght = 1; // 12 rows
-            int ArrayHeight = 12; // 16 columns
+            int ArrayLenght = 1; // rows
+            int ArrayHeight = 12; // columns
 
         for(int i=0; i<ArrayLenght; i++)
         { 
